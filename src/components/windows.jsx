@@ -32,10 +32,6 @@ const Windows = function () {
                         GitHub
                     </a>
                     <span>/</span>
-                    <a href="/privacy">Privacy Policy</a>
-                    <span>/</span>
-                    <a href="/terms">Terms of Service</a>
-                    <span>/</span>
                     <a href="/abc.html">ABC</a>
                 </div>
             </div>
